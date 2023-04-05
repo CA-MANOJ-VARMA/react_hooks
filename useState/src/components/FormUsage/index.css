@@ -1,0 +1,38 @@
+.css-FormUsage-bg-container{
+    display:flex;
+    justify-content: center;
+   
+}
+
+.css-FormUsage-form-container{
+    display:flex;
+    flex-direction: column;
+    width: 250px;
+}
+
+.css-FormUsage-input-container{
+    display: flex;
+    flex-direction: column;
+    margin-top:10px;
+}
+
+.css-FormUsage-input-itself{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+
+.css-submit-button-itself{
+    background-color: blueviolet;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    border-width: 0;
+    margin-top: 10px;
+}
+
+.css-submit-button-itself:hover{
+    cursor:pointer;
+}

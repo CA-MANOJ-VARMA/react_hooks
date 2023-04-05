@@ -1,0 +1,17 @@
+.css-bg-incdecusage-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;  
+}
+
+.css-incdecusage-button-itself{
+    
+    width: 50px;
+    background-color: blueviolet;
+    color: white;
+    font-size: 50px;
+    border-radius: 5px;
+    border-width: 0;
+    margin: 20px;
+}
